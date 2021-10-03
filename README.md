@@ -7,7 +7,7 @@
 ---
 
 - 목표 : 다다익선 컨셉으로 매일 2편씩 빠르게 읽고 정리하기
-  [abstract, Introduction, figures, Conclusion]
+  [Introduction, Approach, figures, Conclusion]
 - 관심있는 논문 자세하게 읽어보기
 - list
 
