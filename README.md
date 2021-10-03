@@ -16,9 +16,9 @@
 | [__TGN-리뷰__](https://github.com/hybyun0121/gnn-pr/blob/main/paper-review/TGN-%EB%A6%AC%EB%B7%B0.pdf) | [Temporal Graph Networks for Deep Learning on Dynamic Graphs](https://arxiv.org/abs/2006.10637) | 21.9.27 |
 | [__CGCNN-리뷰__](https://github.com/hybyun0121/gnn-pr/blob/main/paper-review/CGCNN-%EB%A6%AC%EB%B7%B0.pdf) | Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties | 21.9.27 |
 | [__RLGN-리뷰__](https://github.com/hybyun0121/gnn-pr/blob/main/paper-review/RLGN-%EB%A6%AC%EB%B7%B0.pdf) | [Controlling Graph Dynamics with Reinforcement Learning and Graph Neural Networks](https://arxiv.org/abs/2010.05313) | 21.9.28 |
-|                      GRAND-리뷰 작성중                       | [GRAND- Graph Neural Diffusion](https://arxiv.org/pdf/2106.10934.pdf) | 21.9.28 |
+| [__GRAND-리뷰__](https://github.com/hybyun0121/gnn-pr/blob/main/paper-review/GRAND-%EB%A6%AC%EB%B7%B0.pdf) | [GRAND- Graph Neural Diffusion](https://arxiv.org/pdf/2106.10934.pdf) | 21.9.28 |
 | [__PathCon-리뷰__](https://github.com/hybyun0121/gnn-pr/blob/main/paper-review/PathCon-%EB%A6%AC%EB%B7%B0.pdf) | [Relational Message Passing for Knowledge Graph Completion](https://arxiv.org/pdf/2002.06757.pdf) | 21.9.29 |
-| [KBGAT-리뷰 작성중](https://github.com/hybyun0121/gnn-pr/blob/main/paper-review/KBGAT-%EB%A6%AC%EB%B7%B0.pdf) | [Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs](https://arxiv.org/pdf/1906.01195.pdf) | 21.9.29 |
+| __[KBGAT-리뷰](https://github.com/hybyun0121/gnn-pr/blob/main/paper-review/KBGAT-%EB%A6%AC%EB%B7%B0.pdf)__ | [Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs](https://arxiv.org/pdf/1906.01195.pdf) | 21.9.29 |
 
 
 
